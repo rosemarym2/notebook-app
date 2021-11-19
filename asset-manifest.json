@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/rosemarym2.github.io/notebook-app/static/css/main.78730930.chunk.css",
+    "main.js": "/rosemarym2.github.io/notebook-app/static/js/main.2d097cf4.chunk.js",
+    "main.js.map": "/rosemarym2.github.io/notebook-app/static/js/main.2d097cf4.chunk.js.map",
+    "runtime-main.js": "/rosemarym2.github.io/notebook-app/static/js/runtime-main.27472420.js",
+    "runtime-main.js.map": "/rosemarym2.github.io/notebook-app/static/js/runtime-main.27472420.js.map",
+    "static/js/2.baa2788c.chunk.js": "/rosemarym2.github.io/notebook-app/static/js/2.baa2788c.chunk.js",
+    "static/js/2.baa2788c.chunk.js.map": "/rosemarym2.github.io/notebook-app/static/js/2.baa2788c.chunk.js.map",
+    "index.html": "/rosemarym2.github.io/notebook-app/index.html",
+    "static/css/main.78730930.chunk.css.map": "/rosemarym2.github.io/notebook-app/static/css/main.78730930.chunk.css.map",
+    "static/js/2.baa2788c.chunk.js.LICENSE.txt": "/rosemarym2.github.io/notebook-app/static/js/2.baa2788c.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/rosemarym2.github.io/notebook-app/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.27472420.js",
+    "static/js/2.baa2788c.chunk.js",
+    "static/css/main.78730930.chunk.css",
+    "static/js/main.2d097cf4.chunk.js"
+  ]
+}
