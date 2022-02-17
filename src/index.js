@@ -5,5 +5,5 @@ import App from './App';
 import Note from './Note';
 import List from './List';
 
-ReactDOM.render(<App />,document.getElementById('root'));
+ReactDOM.render(<App />, document.getElementById('root'));
 
