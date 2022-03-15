@@ -1,5 +1,4 @@
 import { useState } from "react";
-import List from "./List";
 import DeleteForeverIcon from '@mui/icons-material/DeleteForever';
 
 const App = () => {
