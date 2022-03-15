@@ -1,21 +1,20 @@
 {
   "files": {
-    "main.css": "/rosemarym2.github.io/notebook-app/static/css/main.78730930.chunk.css",
-    "main.js": "/rosemarym2.github.io/notebook-app/static/js/main.2d097cf4.chunk.js",
-    "main.js.map": "/rosemarym2.github.io/notebook-app/static/js/main.2d097cf4.chunk.js.map",
-    "runtime-main.js": "/rosemarym2.github.io/notebook-app/static/js/runtime-main.27472420.js",
-    "runtime-main.js.map": "/rosemarym2.github.io/notebook-app/static/js/runtime-main.27472420.js.map",
-    "static/js/2.baa2788c.chunk.js": "/rosemarym2.github.io/notebook-app/static/js/2.baa2788c.chunk.js",
-    "static/js/2.baa2788c.chunk.js.map": "/rosemarym2.github.io/notebook-app/static/js/2.baa2788c.chunk.js.map",
-    "index.html": "/rosemarym2.github.io/notebook-app/index.html",
-    "static/css/main.78730930.chunk.css.map": "/rosemarym2.github.io/notebook-app/static/css/main.78730930.chunk.css.map",
-    "static/js/2.baa2788c.chunk.js.LICENSE.txt": "/rosemarym2.github.io/notebook-app/static/js/2.baa2788c.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/rosemarym2.github.io/notebook-app/static/media/logo.6ce24c58.svg"
+    "main.css": "/notebook-app/static/css/main.16903140.chunk.css",
+    "main.js": "/notebook-app/static/js/main.fd42ec7c.chunk.js",
+    "main.js.map": "/notebook-app/static/js/main.fd42ec7c.chunk.js.map",
+    "runtime-main.js": "/notebook-app/static/js/runtime-main.eba17519.js",
+    "runtime-main.js.map": "/notebook-app/static/js/runtime-main.eba17519.js.map",
+    "static/js/2.5c05d3ac.chunk.js": "/notebook-app/static/js/2.5c05d3ac.chunk.js",
+    "static/js/2.5c05d3ac.chunk.js.map": "/notebook-app/static/js/2.5c05d3ac.chunk.js.map",
+    "index.html": "/notebook-app/index.html",
+    "static/css/main.16903140.chunk.css.map": "/notebook-app/static/css/main.16903140.chunk.css.map",
+    "static/js/2.5c05d3ac.chunk.js.LICENSE.txt": "/notebook-app/static/js/2.5c05d3ac.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.27472420.js",
-    "static/js/2.baa2788c.chunk.js",
-    "static/css/main.78730930.chunk.css",
-    "static/js/main.2d097cf4.chunk.js"
+    "static/js/runtime-main.eba17519.js",
+    "static/js/2.5c05d3ac.chunk.js",
+    "static/css/main.16903140.chunk.css",
+    "static/js/main.fd42ec7c.chunk.js"
   ]
 }
